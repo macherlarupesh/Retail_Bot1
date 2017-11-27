@@ -1,4 +1,4 @@
-# Multi-Dialog Bot Sample
+# Retail_Bot Sample
 
 A sample bot showing different kind of dialogs.
 
